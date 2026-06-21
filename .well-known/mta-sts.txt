@@ -1,5 +1,5 @@
 version: STSv1
-mode: enforce
+mode: testing
 mx: postjobsinfo.com
 mx: *.postjobsinfo.com
 max_age: 86400
